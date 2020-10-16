@@ -1,0 +1,5 @@
+10/15/2020 05:49:27 PM - BasePage - INFO: Sent data on element with locator: #user-namelocatorType: css
+10/15/2020 05:49:28 PM - BasePage - INFO: Sent data on element with locator: #passwordlocatorType: css
+10/15/2020 05:49:30 PM - BasePage - INFO: Clicked on element with locator:[value="LOGIN"] locatorType: css
+10/15/2020 05:49:31 PM - BasePage - INFO: Element not found with locator: [data-test="error"]and locatorType: css
+10/15/2020 05:49:31 PM - BasePage - INFO: Element not present with locator: [data-test="error"] locatorType: css
